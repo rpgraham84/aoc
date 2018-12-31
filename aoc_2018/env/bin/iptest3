@@ -1,4 +1,4 @@
-#!/home/rgraham/code/aoc-2018/env/bin/python3.7
+#!/home/rgraham/code/aoc/aoc_2018/env/bin/python3.7
 
 # -*- coding: utf-8 -*-
 import re
